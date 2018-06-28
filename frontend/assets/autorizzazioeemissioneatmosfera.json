@@ -1,6 +1,6 @@
 {
    "featureTypeName":"siraemissioni:AutorizzazioneEmissioneAtmosfera",
-   "featureTypeNameLabel":"Autorizzazione emissioni in atmosfera",
+   "featureTypeNameLabel":"Autorizzazione Emissioni in Atmosfera",
    "geometryName": "geometria",
    "geometryType": "Point",
    "card": {
